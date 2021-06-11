@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/AyoubMaatouch
 [instagram]: https://instagram.com/ma3touch
 [linkedin]: https://www.linkedin.com/in/ayoub-maatouch-624862187/
-[![aymaatou's 42 stats](https://badge42.herokuapp.com/api/stats/aymaatou)](https://github.com/aymaatou/badge42)
+[![AyoubMaatouch's 42 stats](https://badge42.herokuapp.com/api/stats/aymaatou)](https://github.com/aymaatou/badge42)
