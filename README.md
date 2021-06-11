@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
+- 📫 How to reach me: contact@maatouch.com
 
 ### Connect with me:
 
